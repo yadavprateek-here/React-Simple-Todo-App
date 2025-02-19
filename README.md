@@ -9,12 +9,17 @@ Currently, two official plugins are available:
 
 
 -----------------------------Steps to run the project -------------------------------------
+
 step 1: download the project
+
 step 2: open the project after extracting in vscode or any IDE
+
 step 3: open terminal and execute the below commands one by one 
+
 	cd .\React-Simple-Todo-App-main\
 	npm install
 	npm run dev
+ 
 step 4: you will be provided with localhost link to view the project working
 
 
